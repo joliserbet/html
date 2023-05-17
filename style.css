@@ -1,0 +1,40 @@
+*{
+    font-family: Roboto;
+}
+
+body{
+    background-color: #293548;
+    color: #FFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.main{
+    gap: 35px;
+    margin: 10px 0;
+    width: max-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_info{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.desarrollador{
+    color: #2CB67D;
+}
+.nombre{
+    margin: 0;
+}
+img{
+    position: sticky;
+}
+ul{
+    list-style: none;
+}
